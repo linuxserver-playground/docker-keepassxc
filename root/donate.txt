@@ -1,0 +1,3 @@
+KeePassXC donate: https://keepassxc.org/donate/
+Open Collective: https://opencollective.com/keepassxc
+Liberapay: https://liberapay.com/keepassxc
